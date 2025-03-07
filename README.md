@@ -16,7 +16,7 @@ Ce projet a pour objectif d’acquérir des compétences pratiques en :
 ## 🛠 Technologies & Outils Utilisés
 - **VMware** : Virtualisation des machines
 - **Cumulus Linux** : OS pour la gestion des commutateurs
-- **Debian/Fedora/CentOS** : OS pour les machines clientes et le serveur NFS
+- **Linux** : OS pour les machines clientes et le serveur NFS
 - **Netplan** : Configuration réseau simplifiée
 - **NFS (Network File System)** : Partage de fichiers en réseau
 - **iptables** : Gestion des règles de filtrage réseau
